@@ -3,5 +3,8 @@ public class Demo_Git {
         System.out.println("Demo github");
         System.out.println("Demo github!!!");
         System.out.println("Demo GitHub co ban!");
+        int a = 5;
+        int b = 5;
+        System.out.println(a + b);
     }
 }
